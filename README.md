@@ -2,5 +2,5 @@
 
 - Peeramate Jukkasat
    - Team
-<img src="Image/Me.jpg" alt="Me" style="high:50 width:50">
+<img src="Image/Me.jpg" alt="Me" style="high:100px width:100px">
 [Decryption](Decryption.md)
