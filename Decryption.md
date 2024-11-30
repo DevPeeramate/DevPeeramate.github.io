@@ -2,7 +2,7 @@
 
 ---
 
-## CISSP Glossary
+## **CISSP Glossary**
  - Decryption The reverse process from encryption. It is the process of converting a ciphertext message back into plaintext through the use of the cryptographic algorithm and the appropriate key that was used to do the original encryption.
 > **[Refer](https://www.isc2.org/certifications/cissp/cissp-student-glossary)**
 
@@ -16,7 +16,7 @@
 ---
 
 
-## CSRC
+## **CSRC**
  - The process of changing ciphertext into plaintext using a cryptographic algorithm and key.
 > **[Refer](https://csrc.nist.gov/glossary/term/decryption)**
 
@@ -28,10 +28,10 @@
 
 ---
 
-## Myself
+## **Myself**
  - กระบวนการหรือการทำงานในการถอดรหัสเเปลงจากข้อความที่ถูกเข้ารหัสมาเป็น ข้อความก่อนที่จะถูกเเปลง โดยใช้ กุญเเจ 
 
-## Sample in Daily life
+## **Sample in Daily life**
  - การใช้บัตรเครดิตออนไลน์ เมื่อพยายามกรอกข้อมูลบัตรเครดิตในเว็บไซต์ที่ปลอดภัย (HTTPS) ข้อมูลจะถูกเข้ารหัสระหว่างการส่งไปยังเซิร์ฟเวอร์ และเซิร์ฟเวอร์จะถอดรหัสเพื่อประมวลผลการชำระเงิน
 
 URL Work : [My Work](https://devpeeramate.github.io/Decryption.html)
