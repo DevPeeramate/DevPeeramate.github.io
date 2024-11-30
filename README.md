@@ -2,5 +2,5 @@
 
 - Peeramate Jukkasat
    - Team
-![ItMe](Image/Me.jpg)
+<img src="Image/Me.jpg" alt="Me" style="high:50 width;50"
 [Decryption](Decryption.md)
