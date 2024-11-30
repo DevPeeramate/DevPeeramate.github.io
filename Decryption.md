@@ -4,7 +4,7 @@
 
 ## **CISSP Glossary - Student Guide**
  - Decryption The reverse process from encryption. It is the process of converting a ciphertext message back into plaintext through the use of the cryptographic algorithm and the appropriate key that was used to do the original encryption.
-> **[Refer](https://www.isc2.org/certifications/cissp/cissp-student-glossary)**
+> **[Refer CISSP Glossary - Student Guide](https://www.isc2.org/certifications/cissp/cissp-student-glossary)**
 
 ### ChatGPT
  - การถอดรหัส (Decryption) เป็นกระบวนการย้อนกลับจากการเข้ารหัส (Encryption) โดยเป็นกระบวนการแปลงข้อความที่ถูกเข้ารหัส (Ciphertext) ให้กลับมาเป็นข้อความธรรมดา (Plaintext) ด้วยการใช้ อัลกอริธึมการเข้ารหัส (Cryptographic Algorithm) และ กุญแจที่เหมาะสม ซึ่งถูกใช้ในการเข้ารหัสครั้งแรก
@@ -16,9 +16,9 @@
 ---
 
 
-## **NIST CSRC**
+## **NIST - CSRC**
  - The process of changing ciphertext into plaintext using a cryptographic algorithm and key.
-> **[Refer](https://csrc.nist.gov/glossary/term/decryption)**
+> **[Refer NIST - CSRC](https://csrc.nist.gov/glossary/term/decryption)**
 
 ### ChatGPT
  - กระบวนการเปลี่ยนข้อความที่ถูกเข้ารหัส (Ciphertext) ให้กลับมาเป็นข้อความธรรมดา (Plaintext) โดยใช้ อัลกอริธึมการเข้ารหัส และ กุญแจ
