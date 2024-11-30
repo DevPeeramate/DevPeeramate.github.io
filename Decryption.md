@@ -10,6 +10,10 @@
 ### Gemini
  - การถอดรหัส กระบวนการย้อนกลับจากการเข้ารหัส เป็นกระบวนการแปลงข้อความที่เข้ารหัสกลับเป็นข้อความธรรมดา โดยใช้ขั้นตอนวิธีการเข้ารหัสและกุญแจที่ถูกต้องซึ่งใช้ในการเข้ารหัสเดิม
 
+
+---
+
+
 ### CSRC
  - The process of changing ciphertext into plaintext using a cryptographic algorithm and key.
 > **[Refer](https://csrc.nist.gov/glossary/term/decryption)**
