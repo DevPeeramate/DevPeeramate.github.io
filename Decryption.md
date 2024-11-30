@@ -1,5 +1,7 @@
 # Decryption
 
+---
+
 ### CISSP Glossary
  - Decryption The reverse process from encryption. It is the process of converting a ciphertext message back into plaintext through the use of the cryptographic algorithm and the appropriate key that was used to do the original encryption.
 > **[Refer](https://www.isc2.org/certifications/cissp/cissp-student-glossary)**
