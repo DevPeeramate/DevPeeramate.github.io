@@ -37,7 +37,7 @@
 [![Cyber Board Game](/Image/Cyber_Board_Game.png)](https://www.youtube.com/watch?v=NffqxQwekAQ&list=LL&index=2 "Cyber Board Game")
 
 ## Note
-### ทางกลุ่มผู้จัดทำได้ขออนุญาตแล้ว ในการถ่ายรูป ถ่ายวิดีโอและการเผยแพร่ลงสื่อ Social Media
+**ทางกลุ่มผู้จัดทำได้ขออนุญาตแล้ว ในการถ่ายรูป ถ่ายวิดีโอและการเผยแพร่ลงสื่อ Social Media**
 
 ## สมาชิกคนอื่นในกลุ่ม
 ###### - [1](https://6530200401.github.io/board-game)
