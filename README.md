@@ -6,5 +6,4 @@
 1. [Decryption](Decryption.md)
 2. [E-Card](e-card.md)
 3. [Data Uniqueness](uniqueness.md)
-[comment]: <> (4. [Cyber Board Game](board-game.md))
 5. [Securityb Control](security-control.md)
