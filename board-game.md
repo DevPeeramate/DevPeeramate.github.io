@@ -40,7 +40,7 @@
 **ทางกลุ่มผู้จัดทำได้ขออนุญาตแล้ว ในการถ่ายรูป ถ่ายวิดีโอและการเผยแพร่ลงสื่อ Social Media**
 
 ## สมาชิกคนอื่นในกลุ่ม
-#### - [1]()
-#### - [Mr.Porawapat Mutarapat]()
-#### - [Mr.Nontawat Phunpuek]()
-#### - [Mr.Sathaporn Sattayachiti]()
+#### - [Mr.Nutparit Somboon](https://6530200151.github.io/board-game)
+#### - [Mr.Porawapat Mutarapat](https://porawapat-github.github.io/cyber-board-game)
+#### - [Mr.Nontawat Phunpuek](https://nontawatjgm.github.io/boardgame)
+#### - [Mr.Sathaporn Sattayachiti](https://sathaporn-sat.github.io/board-game)
