@@ -8,7 +8,7 @@
 ![Image](MyIMG/pao_election_Station.jpg)
 
 ### Check in
-![Image](MyIMG/pao_election_Pic1.jpg)
+![Image](MyIMG/pao_election_Pic.jpg)
 
 
 วันนี้ได้ไปดูบรรยากาศการเลือกตั้งสมาชิกสภาองค์การบริหารส่วนจังหวัด และนายกองค์การบริหารส่วนจังหวัดชลบุรี แล้วได้ถ่ายรูป check in เพื่อใช้เป็นภาพประกอบในการส่งงานรายวิชา Information System Security
